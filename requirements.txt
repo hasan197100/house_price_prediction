@@ -5,5 +5,4 @@ numpy==1.19.5
 matplotlib==3.5.3
 gunicorn
 pickle4
-requests=2.24.0
 sklearn==0.23
